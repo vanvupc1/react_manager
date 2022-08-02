@@ -1,0 +1,30 @@
+[
+    {
+        "icon": "bx bxs-user-account",
+        "count": "56 Khách Hàng",
+        "title": "Tổng Khách Hàng",
+        "active":"primary",
+        "description": "Tổng Số Khách Hàng Được Quản Lý"
+    },
+    {
+        "icon": "bx bxs-data",
+        "count": "1850 Sản Phẩm",
+        "title": "Tổng Sản Phẩm",
+        "active":"info",
+        "description":"Tổng Số Sản Phẩm Được Quản Lý"
+    },
+    {
+        "icon": "bx bxs-shopping-bags",
+        "count": "247 Đơn Hàng",
+        "title": "Tổng Đơn Hàng",
+        "active":"warning",
+        "description":"Tổng Số Hóa Đơn Bán Trong Tháng"
+    },
+    {
+        "icon": "bx bxs-error-alt",
+        "count": "4 Sản Phẩm",
+        "title": "Sắp Hết Hàng",
+        "active":"danger",
+        "description":"Số sản phẩm cảnh báo hết cần nhập thêm."
+    }
+]

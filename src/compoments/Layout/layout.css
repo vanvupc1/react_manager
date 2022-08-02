@@ -1,0 +1,11 @@
+
+
+.layout__content {
+    padding-left:200px;
+    background-color: #fafafb;
+    min-height: 100vh;
+}
+
+.layout__content-main {
+    padding: 80px;
+}

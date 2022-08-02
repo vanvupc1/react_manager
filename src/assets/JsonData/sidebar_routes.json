@@ -1,0 +1,52 @@
+[
+    {
+        "display_name": "Bảng Điều Khiển",
+        "route": "/",
+        "icon": "bx bx-tachometer"
+    },
+    {
+        "display_name": "Quản Lý Nhân Viên",
+        "route": "/employees",
+        "icon": "bx bx-id-card"
+    },
+    {
+        "display_name": "Quản Lý Khách Hàng",
+        "route": "/customer",
+        "icon": "bx bx-user-voice"
+    },
+    {
+        "display_name": "Quản Lý Sản Phẩm",
+        "route": "/orders",
+        "icon": "bx bx-purchase-tag-alt"
+    },
+    {
+        "display_name": "Quản Lý Đơn Hàng",
+        "route": "/orders",
+        "icon": "bx bx-task"
+    },
+    {
+        "display_name": "Quản Lý Nội Bộ",
+        "route": "/analytics",
+        "icon": "bx bx-run"
+    },
+    {
+        "display_name": "Bảng Kê Lương",
+        "route": "/categories",
+        "icon": "bx bx-dollar"
+    },
+    {
+        "display_name": "Báo Cáo Doanh Thu",
+        "route": "/discount",
+        "icon": "bx bx-pie-chart-alt-2"
+    },
+    {
+        "display_name": "Lịch Công Tác",
+        "route": "/inventory",
+        "icon": "bx bx-calendar-check"
+    },
+    {
+        "display_name": "Cài Đặt Hệ Thống",
+        "route": "/settings",
+        "icon": "bx bx-cog"
+    }
+]
