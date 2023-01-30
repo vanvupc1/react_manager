@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .status-card {
   display: -webkit-box;
     display: -ms-flexbox; 
@@ -119,4 +120,127 @@
   margin-top: 5px !important;
   border-top: 1px dashed #e8e8e8;
   padding-top: 10px !important;
+=======
+.status-card {
+  display: -webkit-box;
+    display: -ms-flexbox; 
+    display: flex;
+    border-radius: 2px;
+    color: #FFF;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 1px rgba(0, 0, 0, 0.1);
+}
+
+.status-card .status-card__icon {
+  display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 85px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 2px 0 0 2px;
+    font-size: 2.5rem;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.1);
+}
+.status-card .status-card__info{
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 0 20px;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+.status-card .status-card__info h4{
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #d20000;
+  font-size: 15px;
+}
+.status-card .status-card__info p{
+  margin: 0;
+  font-size: 16px;
+  color: #000;
+}
+.status-card.primary {
+  background-color: rgb(0, 28, 64);
+}
+
+.status-card.primary.coloured-icon {
+  background-color: #fff;
+  color: #2a2a2a;
+  border-radius: .375rem;
+  padding: 10px;
+}
+
+.status-card.primary.coloured-icon .status-card__icon {
+  background-color: #b9ffd3;
+  color: #22ad56;
+  border-radius: .375rem;
+}
+.status-card.info {
+  background-color: #17a2b8;
+}
+
+.status-card.info.coloured-icon {
+  background-color: #fff;
+  color: #2a2a2a;
+  border-radius: .375rem;
+  padding: 10px;
+}
+
+.status-card.info.coloured-icon .status-card__icon {
+  background-color: #adcbf3;
+  color: #1d5aab;
+  border-radius: .375rem;
+}
+
+.status-card.warning {
+  background-color: #ffc107;
+}
+
+.status-card.warning.coloured-icon {
+  background-color: #fff;
+  color: #2a2a2a;
+  border-radius: .375rem;
+  padding:10px;
+}
+
+.status-card.warning.coloured-icon .status-card__icon {
+  background-color: #fde1c3;
+  color: #ff8b07;
+  border-radius: .375rem;
+}
+
+.status-card.danger {
+  background-color: #dc3545;
+}
+
+.status-card.danger.coloured-icon {
+  background-color: #fff;
+  color: #2a2a2a;
+  border-radius: .375rem;
+  padding:10px;
+}
+
+.status-card.danger.coloured-icon .status-card__icon {
+  background-color: #f9baba;
+  color: #de2222;
+  border-radius: .375rem;
+}
+.status-card__desription{
+  font-size: 12px !important;
+  margin-top: 5px !important;
+  border-top: 1px dashed #e8e8e8;
+  padding-top: 10px !important;
+>>>>>>> fcbc12e (update func)
 }

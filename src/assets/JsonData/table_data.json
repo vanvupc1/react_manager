@@ -1,0 +1,36 @@
+[
+    {
+        "ID":"#CD12837",
+        "Name":"Hồ Thị Thanh Ngân",
+        "Image":"1.jpg",
+        "Address":"155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh",
+        "Birthday": "12/02/1999",
+        "Sex": "Nữ",
+        "Phone": "0926737168",
+        "Position":"Bán hàng",
+        "Feature":""
+    },
+    {
+        "ID":"#CD12837",
+        "Name":"Hồ Thị Thanh Ngân",
+        "Image":"1.jpg",
+        "Address":"155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh",
+        "Birthday": "12/02/1999",
+        "Sex": "Nữ",
+        "Phone": "0926737168",
+        "Position":"Bán hàng",
+        "Feature":""
+    },
+    {
+        "ID":"#CD12837",
+        "Name":"Hồ Thị Thanh Ngân",
+        "Image":"1.jpg",
+        "Address":"155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh",
+        "Birthday": "12/02/1999",
+        "Sex": "Nữ",
+        "Phone": "0926737168",
+        "Position":"Bán hàng",
+        "Feature":""
+    }
+
+]

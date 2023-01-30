@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 .layout__content {
@@ -9,3 +10,16 @@
 .layout__content-main {
     padding: 80px;
 }
+=======
+
+
+.layout__content {
+    padding-left:200px;
+    background-color: #fafafb;
+    min-height: 100vh;
+}
+
+.layout__content-main {
+    padding: 80px;
+}
+>>>>>>> fcbc12e (update func)
