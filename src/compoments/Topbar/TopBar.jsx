@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 import './topbar.css'
 const TopBar = () => {
@@ -14,21 +13,4 @@ const TopBar = () => {
   )
 }
 
-=======
-import React from 'react'
-import './topbar.css'
-const TopBar = () => {
-  return (
-    <header className="navbar">
-        <div className="navbar__right">
-        </div>
-        <div className="navbar__right-item">
-                <i className="bx bx-log-out bx-rotate-180"></i>
-            </div>
-    </header>
-
-  )
-}
-
->>>>>>> fcbc12e (update func)
 export default TopBar

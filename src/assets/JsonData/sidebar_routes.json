@@ -16,11 +16,7 @@
     },
     {
         "display_name": "Quản Lý Sản Phẩm",
-<<<<<<< HEAD
-        "route": "/orders",
-=======
         "route": "/product",
->>>>>>> fcbc12e (update func)
         "icon": "bx bx-purchase-tag-alt"
     },
     {
