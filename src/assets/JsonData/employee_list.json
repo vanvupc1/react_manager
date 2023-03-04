@@ -1,20 +1,20 @@
 [
     {
-        "ID": "#CD12346","Name":"Hồ Thị Thanh Ngân","Image":"/assets/img-anhthe/1.jpg","Address":"155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Bán Hàng"
+        "ID": "#CD12346","Name":"Hồ Thị Thanh Ngân","Image":"/img-anhthe/1.jpg","Address":"155-157 Trần Quốc Thảo, Quận 3, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Bán Hàng"
     },
     {
-        "ID": "#XS12346","Name":"Trần Khả Ái","Image":"'../../assets/img-anhthe2.jpg","Address":"6 Nguyễn Lương Bằng, Tân Phú, Quận 7, Hồ Chí Minh","Birthday":"12/01/1997","Gender":"Nữ","Phone":"0921758151","Position":"Bán Hàng"
+        "ID": "#XS12346","Name":"Trần Khả Ái","Image":"/img-anhthe/2.jpg","Address":"6 Nguyễn Lương Bằng, Tân Phú, Quận 7, Hồ Chí Minh","Birthday":"12/01/1997","Gender":"Nữ","Phone":"0921758151","Position":"Bán Hàng"
     },
     {
-        "ID": "#MD12334","Name":"Phạm Thu Cúc","Image":"'../../assets/img-anhthe3.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Thu Ngân"
+        "ID": "#MD12334","Name":"Phạm Thu Cúc","Image":"/img-anhthe/3.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Thu Ngân"
     },
     {
-        "ID": "#BS76228","Name":"Nguyễn Đặng Trọng Nhân","Image":"'../../assets/img-anhthe4.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nam","Phone":"0921758451","Position":"Bảo trì"
+        "ID": "#BS76228","Name":"Nguyễn Đặng Trọng Nhân","Image":"/img-anhthe/4.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nam","Phone":"0921758451","Position":"Bảo trì"
     },
     {
-        "ID": "#MD12334","Name":"Nguyễn Thị Mai","Image":"'../../assets/img-anhthe5.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Tư Vấn"
+        "ID": "#MD12334","Name":"Nguyễn Thị Mai","Image":"/img-anhthe/5.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nữ","Phone":"0921758451","Position":"Tư Vấn"
     },
     {
-        "ID": "#MD12734","Name":"Nguyễn Thành Nhân","Image":"'../../assets/img-anhthe6.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nam","Phone":"0921758451","Position":"Dịch vụ"
+        "ID": "#MD12734","Name":"Nguyễn Thành Nhân","Image":"/img-anhthe/6.jpg","Address":"Số 3 Hòa Bình, Phường 3, Quận 11, Hồ Chí Minh","Birthday":"12/02/1999","Gender":"Nam","Phone":"0921758451","Position":"Dịch vụ"
     }
 ]
